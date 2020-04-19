@@ -6,6 +6,7 @@ public class Student {
     private Integer id;
     private String address;
     private String hobby;
+    private Integer age;
 
 
     public String getUserName() {
