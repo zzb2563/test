@@ -5,6 +5,7 @@ public class Student {
     private String userName;
     private Integer id;
     private String address;
+    private String hobby;
 
 
     public String getUserName() {
