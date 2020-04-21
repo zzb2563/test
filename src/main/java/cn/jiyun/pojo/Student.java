@@ -1,5 +1,7 @@
 package cn.jiyun.pojo;
 
+import java.util.Date;
+
 public class Student {
 
     private String userName;
@@ -7,6 +9,7 @@ public class Student {
     private String address;
     private String hobby;
     private Integer age;
+    private Date beginDate;
 
     private  String  uname;
 
