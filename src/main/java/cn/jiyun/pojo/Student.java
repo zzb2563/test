@@ -10,6 +10,7 @@ public class Student {
     private String hobby;
     private Integer age;
     private Date beginDate;
+    private String sname;
 
     private  String  uname;
 
