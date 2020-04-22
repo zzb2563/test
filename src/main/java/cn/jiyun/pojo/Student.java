@@ -11,7 +11,7 @@ public class Student {
     private Integer age;
     private Date beginDate;
     private String sname;
-
+    private String photo;
     private  String  uname;
 
     public String getUname() {
